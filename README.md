@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BEIGELAKE
-- 👀 I’m interested in UI/UX DESIGN & FRONTEND DEVELOPMENT
-- 🌱 I’m currently learning HTML,CSS,JS,REACT AND MORE TO LEARN.
-- 💞️ I’m looking to collaborate on ANY PROJECT IN FAVOUR OF HUMANITY.
+- 👀 I’m interested in AI-APPS/AGENTS UI/UX DESIGN
+- 🐍 Python Developer
+- 💞️ IN FAVOUR OF HUMANITY
 - 📫 How to reach me @BEIGELAKE@OUTLOOK.COM
 
 <!---
