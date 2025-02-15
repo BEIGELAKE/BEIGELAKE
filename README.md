@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI-APPS/AGENTS UI/UX DESIGN
 - 🐍 Python Developer
 - 💞️ IN FAVOUR OF HUMANITY
-- 📫 How to reach me @BEIGELAKE@OUTLOOK.COM
+- 📫 How to reach me
 
 <!---
 BEIGELAKE/BEIGELAKE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
